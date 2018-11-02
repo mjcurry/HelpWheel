@@ -1,0 +1,9 @@
+{
+  "name": "IBM",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.16.4",
+    "watson-developer-cloud": "latest",
+    "body-parser": "latest"
+  }
+}
