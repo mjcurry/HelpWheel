@@ -14,3 +14,4 @@ Hackathon to develop Watson-powered IBM Cloud chatbot in under 10 hours.
 * [Caleb Lee](https://github.com/leecaleb)
 * [Asif Mahmud](https://github.com/asifmahmud)
 * [Owen Li](https://github.com/WenruiLi0203)
+* [Andrew Guillard](https://github.com/andrewman986)
