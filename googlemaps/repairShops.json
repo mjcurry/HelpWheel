@@ -1,1 +1,61 @@
-[{"name": "Riethmeyer's Auto Repair Inc", "vicinity": "12172 N Mopac Expy, Austin"}, {"name": "Cy's Car World II", "vicinity": "11116 N Lamar Blvd, Austin"}, {"name": "JAH Love Auto Services", "vicinity": "914 Prairie Trail, Austin"}, {"name": "Rick\u2019s Auto Repair & Towing", "vicinity": "816 Kramer Ln D, Austin"}, {"name": "North Lamar Auto Service Station (\ub178\uc2a4 \ub77c\ub9c8 \uc815\ube44 \uc13c\ud130)", "vicinity": "11100 N Lamar Blvd, Austin"}, {"name": "Pronto Wrecker Service", "vicinity": "830 Prairie Trail, Austin"}, {"name": "Firestone Complete Auto Care", "vicinity": "2500 W Parmer Ln, Austin"}, {"name": "Aus-Tex Body & Frame Inc", "vicinity": "2744, 201 E Braker Ln, Austin"}, {"name": "Austin Mobile Mechanics", "vicinity": "813 Mc Phaul St, Austin"}, {"name": "Interstate Chaparral Towing", "vicinity": "1604 W Howard Ln, Austin"}, {"name": "Amazing Auto Repair & Transmission", "vicinity": "1601 Hydro Dr, Austin"}, {"name": "Statewide Towing Recovery Rescue Roadside Transport INC.", "vicinity": "10106 N IH 35, Austin"}, {"name": "Texas Truck and Trailer", "vicinity": "9621 N Interstate 35 Frontage Rd, Austin"}, {"name": "24X7 Towing & Repairs Texas", "vicinity": "8750 Shoal Creek Blvd, Austin"}, {"name": "Mobile Auto Clinic - Mobile Mechanic Service", "vicinity": "9430 Research Blvd #2-350, Austin"}, {"name": "Pep Boys Auto Service & Tire - Formerly Just Brakes", "vicinity": "8335 Research Blvd, Austin"}, {"name": "Black Forest Werkshop", "vicinity": "2512 Buell Ave, Austin"}, {"name": "A-1 Collision Masters", "vicinity": "5338 Thunder Creek Rd, Austin"}, {"name": "Three Points Automotive", "vicinity": "15212 FM1825, Pflugerville"}, {"name": "J & J Tire Service", "vicinity": "15412 N Interstate Hwy 35, Austin"}]
+[{
+	"name": "Riethmeyer's Auto Repair Inc",
+	"vicinity": "12172 N Mopac Expy, Austin"
+}, {
+	"name": "Cy's Car World II",
+	"vicinity": "11116 N Lamar Blvd, Austin"
+}, {
+	"name": "JAH Love Auto Services",
+	"vicinity": "914 Prairie Trail, Austin"
+}, {
+	"name": "Rick\u2019s Auto Repair & Towing",
+	"vicinity": "816 Kramer Ln D, Austin"
+}, {
+	"name": "North Lamar Auto Service Station (\ub178\uc2a4 \ub77c\ub9c8 \uc815\ube44 \uc13c\ud130)",
+	"vicinity": "11100 N Lamar Blvd, Austin"
+}, {
+	"name": "Pronto Wrecker Service",
+	"vicinity": "830 Prairie Trail, Austin"
+}, {
+	"name": "Firestone Complete Auto Care",
+	"vicinity": "2500 W Parmer Ln, Austin"
+}, {
+	"name": "Aus-Tex Body & Frame Inc",
+	"vicinity": "2744, 201 E Braker Ln, Austin"
+}, {
+	"name": "Austin Mobile Mechanics",
+	"vicinity": "813 Mc Phaul St, Austin"
+}, {
+	"name": "Interstate Chaparral Towing",
+	"vicinity": "1604 W Howard Ln, Austin"
+}, {
+	"name": "Amazing Auto Repair & Transmission",
+	"vicinity": "1601 Hydro Dr, Austin"
+}, {
+	"name": "Statewide Towing Recovery Rescue Roadside Transport INC.",
+	"vicinity": "10106 N IH 35, Austin"
+}, {
+	"name": "Texas Truck and Trailer",
+	"vicinity": "9621 N Interstate 35 Frontage Rd, Austin"
+}, {
+	"name": "24X7 Towing & Repairs Texas",
+	"vicinity": "8750 Shoal Creek Blvd, Austin"
+}, {
+	"name": "Mobile Auto Clinic - Mobile Mechanic Service",
+	"vicinity": "9430 Research Blvd #2-350, Austin"
+}, {
+	"name": "Pep Boys Auto Service & Tire - Formerly Just Brakes",
+	"vicinity": "8335 Research Blvd, Austin"
+}, {
+	"name": "Black Forest Werkshop",
+	"vicinity": "2512 Buell Ave, Austin"
+}, {
+	"name": "A-1 Collision Masters",
+	"vicinity": "5338 Thunder Creek Rd, Austin"
+}, {
+	"name": "Three Points Automotive",
+	"vicinity": "15212 FM1825, Pflugerville"
+}, {
+	"name": "J & J Tire Service",
+	"vicinity": "15412 N Interstate Hwy 35, Austin"
+}]
